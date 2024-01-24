@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshu-Sharma005
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C and operating systems.
+- 💞️ I’m looking to collaborate with some great tech companies in my future.
 - 📫 How to reach me - Gmail- himanshu0001@gmail.com
 
 <!---
